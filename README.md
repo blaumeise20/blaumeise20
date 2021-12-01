@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![ ](https://komarev.com/ghpvc/?username=blaumeise20&style=square&color=blueviolet)
+
 My biggest hobby is programming. Here you can find some of my projects.
 
 Currently my main project is [Jell machine](https://github.com/blaumeise20/jell-machine). I would really appreciate contributions!
